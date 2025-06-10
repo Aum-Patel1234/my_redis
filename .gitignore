@@ -46,3 +46,7 @@ Makefile
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# custom 
+/build/
+/bin/
